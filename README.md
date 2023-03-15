@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Amir Alijani</h1>
+<h3 align="center">I am Amir and I am a software engineer. I love computer science and new technologies and I am constantly studying and researching them. I am very interested in research work, learning and trying new things, and I am not afraid of this, and if needed, I can learn new technology and use it.</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirhalijani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-alijani) 
