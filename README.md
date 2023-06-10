@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Alijani</h1>
-<h3 align="center">I am a software engineer who likes to learn and try new technologies, and I am not afraid to work with them. I always try to keep myself updated and never stop learning. In addition to these, I am very interested in research and academic projects and they are attractive and exciting to me.</h3>
+<h3 align="center">Software engineer with more than two years of experience working with different teams as well as self-employed. Proficient in front-end development and familiar with database, data structure, Python, Golang, C++ and Java. Interested in learning and working with new technologies and doing research and academic projects.</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirhalijani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-alijani)
