@@ -9,3 +9,4 @@
 <ul>
   <li>[Bitmospher Website](https://www.bitmospher.com)</li>
 </ul>
+[I'm an inline-style link](https://www.google.com)
