@@ -7,5 +7,5 @@
 <br />
 <h2>💡 Projects</h2>
 <ul>
-  <li>(https://www.bitmospher.com "Bitmospher Website")</li>
+  <li>[Bitmospher Website](https://www.bitmospher.com)</li>
 </ul>
