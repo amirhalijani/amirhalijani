@@ -7,5 +7,5 @@
 <br />
 <h2>💡 Projects</h2>
 <ul>
-  <li><a href=(https://www.bitmospher.com)>Bitmospher Website</a></li>
+  <li><a href=[https://www.bitmospher.com]>Bitmospher Website</a></li>
 </ul>
