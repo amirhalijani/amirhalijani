@@ -7,6 +7,5 @@
 <br />
 <h2>💡 Projects</h2>
 <ul>
-  <li>[Bitmospher Website](https://www.bitmospher.com)</li>
+  <li><a href=(http://www.bitmospher.com)>Bitmospher Website</a></li>
 </ul>
-[I'm an inline-style link](https://www.google.com)
