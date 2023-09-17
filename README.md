@@ -10,4 +10,4 @@
   <li><a href="http://www.bitmospher.com">Bitmospher Website</a></li>
 </ul>
 
-<div style="width:50%;">![](https://adaickalavan.github.io/assets/images/gophercises_punching.jpg)</div>
+<img src="https://adaickalavan.github.io/assets/images/gophercises_punching.jpg" />
