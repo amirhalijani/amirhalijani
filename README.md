@@ -4,5 +4,8 @@
   <li><b>BackEnd:</b> Golang, Python, C++, MySQL, PostgreSQL, Microservices, OOP, Restful API</li>
   <li><b>Software Development:</b> Agile, CI/CD, Linux, Unix, Git</li>
 </ul>
-
+<br />
 <h2>💡 Projects</h2>
+<ul>
+  <li><a href="www.bitmospher.com">Bitmospher Website</a></li>
+</ul>
