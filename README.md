@@ -9,3 +9,5 @@
 <ul>
   <li><a href="http://www.bitmospher.com">Bitmospher Website</a></li>
 </ul>
+
+![](https://adaickalavan.github.io/assets/images/gophercises_punching.jpg)
