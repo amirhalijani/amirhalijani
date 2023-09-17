@@ -9,7 +9,8 @@
 <ul>
   <li><a href="http://www.bitmospher.com">Bitmospher Website</a></li>
 </ul>
-
+<br />
+<br />
 <p align="center">
   <img src="https://adaickalavan.github.io/assets/images/gophercises_punching.jpg" width="500" style="margin: auto;"/>
 </p>
