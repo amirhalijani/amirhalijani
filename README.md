@@ -8,7 +8,7 @@
 <h2>💡 Projects</h2>
 <ul>
   <li><a href="http://www.bitmospher.com">Bitmospher Website</a></li>
-  <li><a href="/PlayingCardsDeck">Playing Cards Deck</a></li>
+  <li><a href="https://github.com/amirhalijani/playingcardsdeck">Playing Cards Deck</a></li>
 </ul>
 <br />
 <br />
