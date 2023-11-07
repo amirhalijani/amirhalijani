@@ -12,7 +12,7 @@
   <li><a href="https://github.com/amirhalijani/playingcardsdeck">Playing Cards Deck</a></li>
   <li><a href="https://github.com/amirhalijani/algorithms">Algorithms</a></li>
   <li><a href="https://github.com/amirhalijani/jwt-go">JWT-GO</a></li>
-  <li><a href="https://github.com/amirhalijani/num-recognition">Number Recognition</a></li>
+  <li><a href="https://github.com/amirhalijani/num_recognition">Digit Recognition</a></li>
 </ul>
 <br />
 <br />
