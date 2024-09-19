@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amir--Alijani-blue)](https://www.linkedin.com/in/amir-alijani/) 
 [![Email](https://img.shields.io/badge/Email-ah.alijanii@gmail.com-red)](mailto:ah.alijanii@gmail.com)
+[![Email](https://img.shields.io/badge/Email-amiralijaniiwork@gmail.com-red)](mailto:amiralijaniiwork@gmail.com)
 
 ---
 
