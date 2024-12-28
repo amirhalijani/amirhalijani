@@ -1,4 +1,4 @@
-# AmirHossein Alijani 👨‍💻
+# Amir Hossein Alijani 👨‍💻
 
 **Data Scientist | Machine Learning Engineer**
 
