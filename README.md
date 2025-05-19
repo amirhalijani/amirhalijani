@@ -27,10 +27,6 @@ Advisor: Dr. Siavash Ahmadi
 *January 2024 - August 2024, Tehran - Iran*  
 - Awarded scholarships and ranked among top students in multiple programs.
 
-**Teaching Assistant** | *Payame Noor University*  
-*February 2023 - December 2023, Tehran - Iran*  
-- Taught courses on Programming (C++, Java, C#), Fundamentals of Computer, and Advanced Programming.
-
 **Front-End Developer** | *Bitmospher*  
 *October 2022 - March 2023, Tehran - Iran*  
 - Built responsive, scalable web applications using technologies like Next.js, React.js, TypeScript, and Tailwind CSS.
